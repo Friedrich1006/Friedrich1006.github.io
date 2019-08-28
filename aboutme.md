@@ -4,7 +4,7 @@ title: About me
 subtitle: Shengcao Cao 曹胜操
 ---
 
-![avatar](/img/Formal.jpg)
+![Shengcao](/img/Formal.jpg){:height="25%" width="25%"}
 
 Hi there! This is Shengcao Cao, a first-year M.S. in **robotics** student at **Carnegie Mellon University**, advised by [Prof. Kris Kitani](http://www.cs.cmu.edu/~kkitani/). Prior to that, I received my B.S. degree in **computer science** at **Peking University**, advised by [Prof. Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/).
 
