@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learnable Embedding Space for Efficient Neural Architecture Compression
-subtitle: Shengcao Cao*, Xiaofang Wang* and Kris M. Kitani \\ ICLR 2019
+subtitle: Shengcao Cao*, Xiaofang Wang* and Kris M. Kitani <br> ICLR 2019
 image: /img/learnable.png
 ---
 

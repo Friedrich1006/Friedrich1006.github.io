@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
+subtitle: Something more about myself
 ---
 
 I am proudly made in Chengdu, China, which is also the hometown of pandas. Chengdu is definitely a lovely city for your next vacation!
